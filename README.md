@@ -2,4 +2,3 @@
 
 ## Joachim Isaac
 
-## David Hawkins
